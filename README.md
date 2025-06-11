@@ -15,15 +15,14 @@
 <div align="center">
   
   ```javascript Add commentMore actions
-const shreeganesh = {
-    pronouns: "he" | "him",
-    code: ["Java", "JavaScript", "C", "C++"],
-    currentFocus: "Full Stack Development",
-    education: "Pursuing MCA",
-    funFact: "I debug with coffee ☕"
-};
-```
-
+    const shreeganesh = {
+        pronouns: "he" | "him",
+        code: ["Java", "JavaScript", "C", "C++"],
+        currentFocus: "Full Stack Development",
+        education: "Pursuing MCA",
+        funFact: "I debug with coffee ☕"
+    };
+ ```
 </div>
 
 ## 🚀 About Me
