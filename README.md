@@ -13,17 +13,7 @@
 </div>
 
 <div align="center">
-  
-```typescript
-const shreeganesh = {
-    pronouns: "he" | "him",
-    code: ["Java", "JavaScript", "C", "C++"],
-    currentFocus: "Full Stack Development",
-    education: "Pursuing MCA",
-    funFact: "I debug with coffee ☕"
-};
-```
-
+  <img src="custom-animated.gif" />
 </div>
 
 ## 🚀 About Me
