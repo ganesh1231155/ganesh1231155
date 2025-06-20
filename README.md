@@ -85,7 +85,8 @@ I'm a passionate software developer with a strong interest in full-stack develop
   
   <br/>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganesh1231155&theme=tokyonight)](https://git.io/streak-stats)
+  [View GitHub Streak Stats](https://streak-stats.demolab.com/?user=ganesh1231155&theme=tokyonight)
+
   
 </div>
 
