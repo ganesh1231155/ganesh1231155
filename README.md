@@ -1,110 +1,86 @@
-# <div align="center">✨ Welcome to My Digital Garden ✨</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  
-  <p align="center">
-    <a href="mailto:kolteshreeganesh1155@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/shreeganesh-kolte-80ba16259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=ganesh1231155&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  </p>
-</div>
-
-<div align="center">
-  
-  ```javascript Add commentMore actions
-    const shreeganesh = {
-        pronouns: "he" | "him",
-        code: ["Java", "JavaScript", "C", "C++"],
-        currentFocus: "Full Stack Development",
-        education: "Pursuing MCA",
-        funFact: "I debug with coffee ☕"
-    };
- ```
-</div>
- 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
-
-
-I'm a passionate software developer with a strong interest in full-stack development, problem-solving, and building scalable applications. Currently pursuing MCA and diving deep into modern technologies like Spring Boot, React.js, and Docker.
-
-> 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-### What I'm Up To:
-
-- 🌱 Currently learning: Advanced Spring Boot & Microservices
-- 👯 Looking to collaborate on: Open Source Projects
-- 💬 Ask me about: Full Stack Development, Java, React
-- ⚡ Fun fact: I can debug code faster than I can find my keys!
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### Languages I Speak
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# ✨ Welcome to My Digital Garden ✨
 
-### Frontend Magic ✨
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Welcome Banner" style="max-width:100%;" />
 
-### Backend Wizardry 🔮
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Database Mastery 🗃️
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Tools & Platforms 🛠️
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolteshreeganesh1155@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeganesh-kolte-80ba16259/)
+![Profile Views](https://komarev.com/ghpvc/?username=ganesh1231155&style=for-the-badge&color=blueviolet)
 
 </div>
-
-## 📊 GitHub Journey
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh1231155&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh1231155&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165"/>
-  
-  <br/>
-  
-  [View GitHub Streak Stats](https://streak-stats.demolab.com/?user=ganesh1231155&theme=tokyonight)
-
-  
-</div>
-
-## 💭 Favorite Quotes
-
-> "First, solve the problem. Then, write the code." - John Johnson
-
-> "The best error message is the one that never shows up." - Thomas Fuchs
-
-> "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
 
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</div>
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+
+I'm **Shreeganesh Kolte**, a passionate and solution-oriented **Java Full Stack Developer**, currently pursuing **MCA**. I enjoy building robust backend services and sleek frontend interfaces. My interests span microservices, REST APIs, DevOps, and cloud-native applications.
+
+> 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+### 👨‍🚀 Currently:
+- 📘 Learning: Advanced **Spring Boot**, Microservices, and System Design
+- 🤝 Open to: Collaborations on Java or Full Stack projects
+- 💬 Ask me about: **Spring Boot**, **React**, **Docker**, and clean code practices
+- ☕ Fun Fact: I debug better after a strong cup of coffee!
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7915FE?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### 🧠 Backend  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🗃️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-0B4F6C?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <i>Happy Coding! Let's connect and build something amazing together. 🚀</i> 
+
+![Shreeganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganesh1231155&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh1231155&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ganesh1231155&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 💬 Developer's Console
+
+```javascript
+const shreeganesh = {
+  pronouns: "he" | "him",
+  stack: ["Java", "Spring Boot", "React", "Docker", "MySQL"],
+  currentlyLearning: ["Microservices", "System Design"],
+  funFact: "I debug with coffee ☕ and deploy with confidence 🚀"
+};
