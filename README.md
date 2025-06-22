@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212790645-3d408413-908d-4de5-996d-b2313a679e86.gif" width="100%"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="80%" />
 </div>
 
 ---
